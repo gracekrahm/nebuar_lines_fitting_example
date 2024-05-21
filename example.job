@@ -1,5 +1,5 @@
 #! /bin/bash
-#SBATCH --job-name=minimal_example_zred8_new_prosp
+#SBATCH --job-name=minimal_example_zred8
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=gkrahm@ufl.edu
 #SBATCH --time=56:00:00
